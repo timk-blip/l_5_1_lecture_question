@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1dd774f-64c0-4d02-853a-aaa50a3e05f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dRdGpj2Z9UW8as3CkjYI4ZJvYu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BonusMilesServiceTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bonus-calc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusMilesServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bonus-calc" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/AdoptOpenJDK/jdk-11.0.7.10-hotspot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusMilesServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusMilesServiceTest.shouldCalculateRegisteredAndUnderLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bonus-calc" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/AdoptOpenJDK/jdk-11.0.7.10-hotspot" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusMilesServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateRegisteredAndUnderLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/AdoptOpenJDK/jdk-11.0.7.10-hotspot" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.BonusMilesServiceTest" />
+      <item itemvalue="JUnit.BonusMilesServiceTest.shouldCalculateRegisteredAndUnderLimit" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BonusMilesServiceTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BonusMilesServiceTest.shouldCalculateRegisteredAndUnderLimit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1dd774f-64c0-4d02-853a-aaa50a3e05f7" name="Default Changelist" comment="" />
+      <created>1592391746848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592391746848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="169" key="#BonusMilesServiceTest.shouldCalculateRegisteredAndUnderLimit" timestamp="1592398852117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="169" key="#BonusMilesServiceTest.shouldCalculateRegisteredAndUnderLimit/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592398852117" />
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592397319374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592397319374" />
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1592400415032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400415032" />
+    <state x="731" y="221" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592394478818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="221" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592394478818" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1592400118313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592400118313" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592399475405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.30.1680.1010@0.0.1920.1040" timestamp="1592399475405" />
+  </component>
+</project>
